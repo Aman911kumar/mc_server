@@ -126,4 +126,4 @@ wget https://github.com/playit-cloud/playit-agent/releases/download/v0.16.4/play
 chmod +x playit-linux-amd64
 ./playit-linux-amd64
 ```
-## Step 3 - login to playit.gg and create tunnel and you are all set to minecraft
+## Step 3 - login to playit.gg and create tunnel and you are all set to play minecraft
